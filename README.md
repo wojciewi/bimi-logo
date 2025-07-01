@@ -1,0 +1,2 @@
+# bimi-logo
+logo
